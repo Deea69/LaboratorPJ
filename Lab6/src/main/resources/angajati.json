@@ -1,0 +1,32 @@
+[
+  {
+    "nume":"Alex",
+    "post":"director",
+    "data_angajarii":"2000-02-13",
+    "salariu":5000.0
+  },
+  {
+    "nume":"Marius",
+    "post":"Angajat",
+    "data_angajarii":"2020-03-16",
+    "salariu":1000.0
+  },
+  {
+    "nume":"Larisa",
+    "post":"Angajat",
+    "data_angajarii":"2015-11-08",
+    "salariu":1000.0
+  },
+  {
+  "nume":"Cristinel",
+    "post":"Portar",
+    "data_angajarii":"2007-05-06",
+    "salariu":2000.0
+  },
+  {
+    "nume":"Linu",
+    "post":"sef",
+    "data_angajarii":"2023-04-06",
+    "salariu":6000.0
+  }
+]
