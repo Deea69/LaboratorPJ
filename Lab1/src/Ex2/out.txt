@@ -1,0 +1,4 @@
+Media aritmetica: 4.5
+Suma numerelor: 27
+Nr minim: 2
+Nr maxim: 8
